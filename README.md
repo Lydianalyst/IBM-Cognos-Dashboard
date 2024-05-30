@@ -1,3 +1,3 @@
 # IBM-Cognos-Dashboard
-##Cognos Analytics Project
+#Cognos Analytics Project
 Building Dashboards with Cognos Analytics
